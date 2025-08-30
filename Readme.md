@@ -85,6 +85,12 @@
       </a>
       <br>SQLite
     </td>
+    <td align="center" width="96">
+      <a href="https://es.wikipedia.org/wiki/Batch" target="_blank" rel="noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="48" height="48" alt="Batchfile" />
+      </a>
+      <br>Batchfile
+    </td>
   </tr>
 </table>
 
